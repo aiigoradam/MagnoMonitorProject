@@ -1,7 +1,7 @@
 [Workspace Header]
 Version = 2000
-Pathname Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/MagnoMo"
-Pathname Line0002 = "nitor.cws"
+Pathname Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Pathname Line0002 = "MagnoMonitor.cws"
 CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
 CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
 CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
@@ -14,11 +14,11 @@ Number of Projects = 1
 Active Project = 1
 Project 0001 = "MagnoMonitor.prj"
 Drag Bar Left = 296
-Window Top = 31
+Window Top = 38
 Window Left = 19
-Window Bottom = 1042
+Window Bottom = 1049
 Window Right = 1923
-Maximized = True
+Maximized = False
 Maximized Children = True
 Max32 Number Of Errors = 20
 Track Include File Dependencies = True
@@ -47,53 +47,54 @@ Batch Build Release = False
 Batch Build Debug = False
 
 [File 0001]
-Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/cw3dgrp"
-Path Line0002 = "h.fp"
+Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Path Line0002 = "cw3dgrph.fp"
 File Type = "Function Panel"
 Disk Date = 3772913674
 In Projects = "1,"
 
 [File 0002]
-Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/ComConf"
-Path Line0002 = "igDLL.h"
-File Type = "Include"
-Disk Date = 3771258528
-In Projects = "1,"
-Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
-
-[File 0003]
-Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/ComConf"
-Path Line0002 = "ig.lib"
-File Type = "Library"
-Disk Date = 3773518771
-In Projects = "1,"
-
-[File 0004]
-Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/MagnoMo"
-Path Line0002 = "nitor.uir"
+Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Path Line0002 = "MagnoMonitor.uir"
 File Type = "User Interface Resource"
-Disk Date = 3805356424
+Disk Date = 3805384465
 In Projects = "1,"
 Window Top = 64
 Window Left = 26
 Window Height = 609
 Window Width = 984
-Window Z-Order = 2
+Window Z-Order = 1
 
-[File 0005]
-Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/MagnoMo"
-Path Line0002 = "nitor.c"
+[File 0003]
+Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Path Line0002 = "MagnoMonitor.c"
 File Type = "CSource"
 Disk Date = 3805367260
 In Projects = "1,"
-Source Window State = "1,1,1,1,16,51,16,0,3,0,0,0,0,0,0,0,0,0,1,51,400,600,0,0,"
-Window Z-Order = 1
+Source Window State = "1,1,1,1,16,51,16,0,3,0,0,0,0,0,0,0,0,0,1,51,400,600,1,0,"
+Window Top = 31
+Window Z-Order = 2
+
+[File 0004]
+Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Path Line0002 = "ComConfigDLL.h"
+File Type = "Include"
+Disk Date = 3771258528
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Path Line0002 = "ComConfig.lib"
+File Type = "Library"
+Disk Date = 3773518771
+In Projects = "1,"
 
 [Tab Order]
-Tab 0001 Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/MagnoMo"
-Tab 0001 Line0002 = "nitor.c"
-Tab 0002 Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitor/MagnoMonitor/MagnoMo"
-Tab 0002 Line0002 = "nitor.uir"
+Tab 0001 Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Tab 0001 Line0002 = "MagnoMonitor.uir"
+Tab 0002 Line0001 = "/c/Users/stopc/Desktop/First Degree/Year 3/CVI/MagnoMonitorProject/MagnoMonitor/"
+Tab 0002 Line0002 = "MagnoMonitor.c"
 
 [Default Build Config 0001 Debug]
 Generate Browse Info = True
