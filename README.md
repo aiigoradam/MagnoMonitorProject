@@ -78,3 +78,8 @@ Data can be logged to a text file. Choose the file location and name in the inte
 - Provide options for different data units.
 - Create additional visualization options.
 - Introduce more signal processing options.
+
+## Author
+Copyright (c) 2024 Igor Adamenko. All rights reserved.
+Afeka College of Engineering
+Electrical Engineering Department 
