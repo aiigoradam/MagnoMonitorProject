@@ -1,0 +1,8 @@
+LIBRARY ComConfig
+
+EXPORTS
+DisplayRS232Error
+DLLConfigPort
+RS232Error
+port_open
+comport

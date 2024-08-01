@@ -1,0 +1,9 @@
+Transmitter.obj
+cvi.lib
+cvistart.lib
+ComConfig.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
