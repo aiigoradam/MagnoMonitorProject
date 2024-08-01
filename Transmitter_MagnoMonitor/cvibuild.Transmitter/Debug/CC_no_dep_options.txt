@@ -1,1 +1,0 @@
--force-include-file "ComConfigDLL.h";"c:\Users\stopc\Desktop\Transmitter\ComConfigDLL.h" -force-include-file "Transmitter.c";"c:\Users\stopc\Desktop\Transmitter\Transmitter.c" 

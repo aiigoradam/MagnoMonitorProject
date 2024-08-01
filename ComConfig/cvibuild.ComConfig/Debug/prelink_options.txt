@@ -1,6 +1,0 @@
--inrc c:\Users\stopc\Desktop\ComConfig\cvibuild.ComConfig\Debug\resources.in.rc
--outrc c:\Users\stopc\Desktop\ComConfig\cvibuild.ComConfig\Debug\resources.out.rc
--inhdef c:\Users\stopc\Desktop\ComConfig\cvibuild.ComConfig\Debug\ComConfigDLL.h.hdefs
--outdef c:\Users\stopc\Desktop\ComConfig\cvibuild.ComConfig\Debug\ComConfig.dll.defs
--indefprot c:\Users\stopc\Desktop\ComConfig\cvibuild.ComConfig\Debug\ComConfig.obj.cvidefprots
--dllName ComConfig.dll

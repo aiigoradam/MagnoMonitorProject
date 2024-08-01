@@ -1,1 +1,0 @@
--force-include-file "ComConfig.c";"c:\Users\stopc\Desktop\ComConfig\ComConfig.c" -force-include-file "ComConfig.h";"c:\Users\stopc\Desktop\ComConfig\ComConfig.h" -force-include-file "ComConfigDLL.h";"c:\Users\stopc\Desktop\ComConfig\ComConfigDLL.h" 
