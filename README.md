@@ -1,6 +1,6 @@
 # MagnoMonitor
 
-MagnoMonitor is a program designed to monitor and analyze magnetic fields in real-time, using data from a transmitter device that measures magnetic fields in three orthogonal axes (x, y, and z).
+MagnoMonitor is a program designed to monitor and analyze magnetic fields in real time, using data from a transmitter device that measures magnetic fields in three orthogonal axes (x, y, and z).
 
 ![Logo](MagnoMonitor.gif)
 
@@ -19,7 +19,7 @@ MagnoMonitor is a program designed to monitor and analyze magnetic fields in rea
 
 - LabWindows/CVI
 - RS-232 compatible device or simulator for data input
-- com0com software for virtual COM ports (if using simulator)
+- com0com software for virtual COM ports (if using a simulator)
 
 ## Setup
 
@@ -67,7 +67,7 @@ Data can be logged to a text file. Choose the file location and name in the inte
 - Lack of reset mechanism without relaunching the program.
 - Limited error-handling mechanisms.
 - Potential issues with input queue when interrupting data acquisition.
-- Occasional data acquisition stoppage when switching to 3D graph tab.
+- Occasional data acquisition stoppage when switching to the 3D graph tab.
 - Incomplete file writing upon program exit.
 
 ## Future Improvements
