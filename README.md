@@ -2,6 +2,8 @@
 
 MagnoMonitor is a program designed to monitor and analyze magnetic fields in real-time, using data from a transmitter device that measures magnetic fields in three orthogonal axes (x, y, and z).
 
+![Logo](MagnoMonitor.gif)
+
 ## Features
 
 - Real-time monitoring and processing of magnetic field data
