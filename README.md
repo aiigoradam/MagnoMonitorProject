@@ -18,14 +18,7 @@ MagnoMonitor is a program designed to monitor and analyze magnetic fields in rea
 ## Requirements
 
 - LabWindows/CVI
-- RS-232 compatible device or simulator for data input
-- com0com software for virtual COM ports (if using a simulator)
-
-## Setup
-
-1. Connect the measuring device (or set up virtual COM ports if using the simulator).
-2. Launch MagnoMonitor (and Transmitter if using the simulator).
-3. Configure the COM port settings.
+- RS-232 compatible device 
 
 ## Usage
 
@@ -46,42 +39,3 @@ Use the RS-232 Configurator to set:
 - Data bits
 - Stop bits
 - Handshaking mode
-
-## Logging
-
-Data can be logged to a text file. Choose the file location and name in the interface.
-
-## Visualization
-
-- Live Chart: Displays real-time changes in magnetic field magnitude.
-- 3D Graph: Shows variations in magnetic field values over time.
-- Fourier Transform: Displays the frequency spectrum of the recorded data.
-
-## Notes
-
-- The program uses multithreading for handling asynchronous data reception.
-- A companion Transmitter program is available for simulation purposes.
-
-## Known Issues
-
-- Lack of reset mechanism without relaunching the program.
-- Limited error-handling mechanisms.
-- Potential issues with input queue when interrupting data acquisition.
-- Occasional data acquisition stoppage when switching to the 3D graph tab.
-- Incomplete file writing upon program exit.
-
-## Future Improvements
-
-- Add cursors and numeric controls to graphs.
-- Implement harmonic analysis.
-- Expand data-saving options.
-- Improve error-handling mechanisms.
-- Add circular program flow for easy restart.
-- Provide options for different data units.
-- Create additional visualization options.
-- Introduce more signal processing options.
-
-## Author
-Copyright (c) 2024 Igor Adamenko. All rights reserved.
-Afeka College of Engineering
-Electrical Engineering Department 
